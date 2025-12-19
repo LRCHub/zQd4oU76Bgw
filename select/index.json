@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "フォニイ",
+  "base_artist": "和楽器バンド",
+  "createdAt": "2025-12-19T11:39:24.526707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_フォニイ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_フォニイ_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フォニイ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_フォニイ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_フォニイ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO",
+      "has_synced": true,
+      "path": "select/05_フォニイ_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フォニイ - STUDY WITH MIKU ver. -",
+      "artist": "ツミキ",
+      "has_synced": false,
+      "path": "select/06_フォニイ_-_STUDY_WITH_MIKU_ver._-_ツミキ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/07_フォニイ_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "麻婆豆腐",
+      "has_synced": true,
+      "path": "select/08_フォニイ_麻婆豆腐.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "R+...",
+      "has_synced": true,
+      "path": "select/09_フォニイ_R+....lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "音楽的同位体 可不(KAFU)",
+      "has_synced": true,
+      "path": "select/10_フォニイ_音楽的同位体_可不(KAFU).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "25時、ナイトコードで。 × MEIKO",
+      "has_synced": false,
+      "path": "select/11_フォニイ_25時、ナイトコードで。_×_MEIKO.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "Wagakki Band",
+      "has_synced": false,
+      "path": "select/12_フォニイ_Wagakki_Band.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "フォニイ (feat. 宵崎奏",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/13_フォニイ_(feat._宵崎奏_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/14_フォニイ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "phony (English Cover)【Will Stetson】「フォニイ」",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/15_phony_(English_Cover)【Will_Stetson】「フォニイ」_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "フォニイ",
+      "artist": "音楽的同位体 可不",
+      "has_synced": true,
+      "path": "select/16_フォニイ_音楽的同位体_可不.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "フォニイ - STUDY WITH MIKU ver. -",
+      "artist": "Tsumiki",
+      "has_synced": false,
+      "path": "select/17_フォニイ_-_STUDY_WITH_MIKU_ver._-_Tsumiki.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "フォニイ - Instrumental",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/18_フォニイ_-_Instrumental_和楽器バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フォニイ",
+      "artist": "和楽器バンド",
+      "has_synced": false,
+      "path": "select/pl_01_フォニイ_和楽器バンド.txt"
+    }
+  ]
+}
